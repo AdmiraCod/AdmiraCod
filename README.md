@@ -9,6 +9,7 @@
   
   -[Linkedin](https://www.linkedin.com/in/mohammed-elmi-393250203/)
   -[Twitter](https://twitter.com/ElmiMoahmmed)
+  -[Dev to](https://dev.to/admiracod)
   
 - ⚡ Fun fact: I also love writing short fiction
 
