@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on building a portfolio using Javascript and Tailwind css
-- 🌱 I’m currently learning Javascript, Tailwind css 
+- 🌱 I’m currently learning Javascript, Tailwind css, Wordpress
 
 - 📫 How to reach me: 
   
